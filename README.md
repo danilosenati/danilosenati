@@ -1,6 +1,6 @@
 ## Olá, eu sou Danilo Barros! 👋👋 <br/>
 
-- Java,banco de dados e desenvolvimento web.
+- Java, banco de dados e desenvolvimento web.
 - 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilosenati&show_icons=true&theme=highcontrast)
 <br>
