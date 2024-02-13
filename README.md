@@ -1,8 +1,11 @@
-## Olá, eu sou Danilo Barros! 👋👋
-## Estudante de Sistema de Informação - Unijorge
+## Olá, seja bem vindo ao meu perfil! 👋👋
+Sou estudante do curso de Bacharel em Sistema de Informação na Faculdade Unijorge.<br>
+No momento estou me dedicando em aprender a trabalhar com Desenvolvimento Web, Java e Análise de dados.  
 
-# ...:
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250px" align="center" alt="Programador Trabalhando">
+
+Uma longa viagem começa com um único passo.
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" src="https://img.shields.io/badge/-JAVA-339933?style=flat-square&logo=Java&logoColor=red">
