@@ -2,7 +2,7 @@
 Sou estudante do curso de Bacharel em Sistema de Informação na Faculdade Unijorge.<br>
 No momento estou me dedicando em aprender a trabalhar com Desenvolvimento Web, Java e Análise de dados.  
 
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250px" align="center" alt="Programador Trabalhando">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hjamVlOXFoNThlOG50bjRlNHFuZW1rMjAzYmQ4OXV0Ymg3YTdieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Tech Technology GIF by The Coding Space RD" style="width: 250px; height: 250px;">
 
 Uma longa viagem começa com um único passo.
 
