@@ -1,6 +1,4 @@
 ## Olá, seja bem vindo ao meu perfil! 👋👋
-Sou estudante do curso de Bacharel em Sistema de Informação na Faculdade Unijorge.<br>
-Aprimorando meus conheciemtnos em Java e segurança cibernetica.
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hjamVlOXFoNThlOG50bjRlNHFuZW1rMjAzYmQ4OXV0Ymg3YTdieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Tech Technology GIF by The Coding Space RD" style="width: 250px; height: 250px;">
 
