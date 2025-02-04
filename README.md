@@ -59,13 +59,3 @@
 </div>
 
 ###
-
-<h2 align="left">Commits:</h2>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/danilosenati/danilosenati/output/snake.svg" alt="Snake animation" />
-
-###
