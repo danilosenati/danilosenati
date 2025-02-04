@@ -1,4 +1,4 @@
-My name is Danilo Barros, I'm from Salvador, Brasil.
+Hi my name is Danilo Barros, I'm from Salvador, Brasil.
 
 <p align="left"> 📚 I'm currently learning Android mobile development and PHP.<br>-</p>
 
