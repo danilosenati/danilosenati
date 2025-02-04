@@ -1,3 +1,7 @@
+My name is Danilo Barros, I'm from Salvador, Brasil.
+
+<p align="left"> 📚 I'm currently learning Android mobile development and PHP.<br>-</p>
+
 <h2 align="left">About me</h2>
 
 ###
